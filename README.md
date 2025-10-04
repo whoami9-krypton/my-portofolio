@@ -1,4 +1,4 @@
-#  My portofolio
+
 **Fernando zico Farelli**
 
 Ini adalah personal website saya untuk menampilkan **portfolio** dan menulis tentang **web development**.  
