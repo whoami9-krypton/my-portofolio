@@ -1,5 +1,5 @@
-# 🌐 Personal-Web
-**Fatmah Rohmah Tika**
+#  My portofolio
+**Fernando zico Farelli**
 
 Ini adalah personal website saya untuk menampilkan **portfolio** dan menulis tentang **web development**.  
 
@@ -12,8 +12,8 @@ Ini adalah personal website saya untuk menampilkan **portfolio** dan menulis ten
 ---
 
 ## 📱 Social Media
-- [GitHub](https://github.com/ftmahrhmt)
-- [LinkedIn]()
+- [GitHub](https://github.com/ftmahrhmt](https://github.com/whoami9-krypton/Fernando-Zico-Farelli)
+- [LinkedIn](https://www.linkedin.com/in/fernando-zico-fernando-zico-farelli-16b286324)
 - dll...
 
 ---
@@ -32,4 +32,4 @@ Ini adalah personal website saya untuk menampilkan **portfolio** dan menulis ten
 ---
 
 ## 👀 Preview
-![Website Preview]()
+![Website Preview](https://www.figma.com/proto/b2ozVixF6Vz9m5w1qjoTGa/Desain-Fernando-Zico-Farelli?node-id=587-639&t=KmJjK8gTuySzXcEU-0&scaling=min-zoom&content-scaling=fixed&page-id=587%3A638)
